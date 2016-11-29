@@ -5,7 +5,7 @@
 </head>
 <body>
 	<center>
-		<h1>Jai Dev Display Current Date & Time</h1>
+		<h1>Jai Dev It Display Current Date & Time</h1>
 	</center>
 	<%
 		Date date = new Date();
